@@ -1,0 +1,1 @@
+hello admin        my name is {{ $user }}   
